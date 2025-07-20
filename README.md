@@ -1,0 +1,1 @@
+This is my first ever project I have developed using Visual Basic. It is *very* rudimentary, and looks like something straight out of 1995, but we all start somewhere, right? Anyways, it is also able to be used completely offline, allows you to very easily export your writing as a .txt file, and is extremely lightweight, meaning very little memory or CPU is used.
